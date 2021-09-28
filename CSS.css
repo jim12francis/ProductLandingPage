@@ -9,8 +9,8 @@
 }
 
 body {
-  background-color: #eee;
-  font-family: 'Lato', sans-serif;
+  background-color: #334457;
+  font-family: '𝚃𝚑𝚒𝚜 𝙼𝚎𝚝𝚊 𝚃𝚊𝚐𝚜 𝙵𝚘𝚗𝚝 𝙶𝚎𝚗𝚎𝚛𝚊𝚝𝚘𝚛 𝚒𝚜 ', sans-serif;
 }
 
 #page-wrapper {
@@ -58,7 +58,7 @@ header {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  background-color: #eee;
+  background-color: #f1380f;
 }
 
 @media (max-width: 600px) {
@@ -80,9 +80,9 @@ header {
 }
 
 .logo > img {
-  width: 100%;
-  height: 100%;
-  max-width: 300px;
+  width: 150%;
+  height: 150%;
+  max-width: 200px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -155,12 +155,12 @@ nav > ul {
   height: 30px;
   margin: 15px 0;
   border: 0;
-  background-color: #f1c40f;
+  background-color: #f1380f;
 }
 
 #hero input[type='submit']:hover {
-  background-color: orange;
-  transition: background-color 1s;
+  background-color: red;
+  transition: #f1380f;
 }
 
 @media (max-width: 650px) {
@@ -237,8 +237,8 @@ nav > ul {
   text-align: center;
   width: calc(100% / 3);
   margin: 10px;
-  border: 1px solid #000;
-  border-radius: 3px;
+  border: 1px solid #f1380f;
+  border-radius: 7px;
 }
 
 .product > .level {
@@ -265,7 +265,7 @@ nav > ul {
 .product > button {
   border: 0;
   margin: 15px 0;
-  background-color: #f1c40f;
+  background-color: #f1380f;
   font-weight: 400;
 }
 
@@ -288,7 +288,7 @@ nav > ul {
 
 footer {
   margin-top: 30px;
-  background-color: #ddd;
+  background-color: #334457;
   padding: 20px;
 }
 
