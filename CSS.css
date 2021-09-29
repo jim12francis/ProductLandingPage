@@ -155,12 +155,12 @@ nav > ul {
   height: 30px;
   margin: 15px 0;
   border: 0;
-  background-color: #f1380f;
+  background-color: #ff0000d6;
 }
 
 #hero input[type='submit']:hover {
   background-color: red;
-  transition: #f1380f;
+  transition: #ff0000d6;
 }
 
 @media (max-width: 650px) {
