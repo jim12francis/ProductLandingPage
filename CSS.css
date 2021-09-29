@@ -9,7 +9,7 @@
 }
 
 body {
-  background-color: #334457;
+  background-color: #ddd;
   font-family: '𝚃𝚑𝚒𝚜 𝙼𝚎𝚝𝚊 𝚃𝚊𝚐𝚜 𝙵𝚘𝚗𝚝 𝙶𝚎𝚗𝚎𝚛𝚊𝚝𝚘𝚛 𝚒𝚜 ', sans-serif;
 }
 
@@ -155,12 +155,12 @@ nav > ul {
   height: 30px;
   margin: 15px 0;
   border: 0;
-  background-color: #ff0000d6;
+  background-color: #f1380f;
 }
 
 #hero input[type='submit']:hover {
   background-color: red;
-  transition: #ff0000d6;
+  transition: #f1380f;
 }
 
 @media (max-width: 650px) {
@@ -288,7 +288,7 @@ nav > ul {
 
 footer {
   margin-top: 30px;
-  background-color: #334457;
+  background-color: #ddd;
   padding: 20px;
 }
 
